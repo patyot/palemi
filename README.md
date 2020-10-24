@@ -1,0 +1,2 @@
+# palemi
+parcial1
